@@ -1,0 +1,161 @@
+{
+	id_no: 'PH_451_1',
+	age: '28',
+	gender: 'M'
+	status: 'S'
+	mask: 'True'
+	antibact: '2'
+	socialDistance:'2.5'
+}
+{
+	id_no: 'PH_451_2',
+	age: '26',
+	gender: 'M'
+	status: 'I'
+	mask: 'True'
+	antibact: '0'
+	socialDistance: '1.5'
+}
+{
+	id_no: 'PH_451_3',
+	age: '42',
+	gender: 'M'
+	status: 'S'
+	mask: 'True'
+	antibact: '5'
+	socialDistance: '0.5'
+}
+{
+	id_no: 'PH_451_4',
+	age: '33',
+	gender: 'F'
+	status: 'S'
+	mask: 'True'
+	antibact: '5'
+	socialDistance: '1'
+}
+{
+	id_no: 'PH_451_5',
+	age: '22',
+	gender: 'M'
+	status: 'I'
+	mask: 'False'
+	antibact: '5'
+	socialDistance: '2.2'
+}
+{
+	id_no: 'PH_451_6',
+	age: '29',
+	gender: 'F'
+	status: 'R'
+	mask: 'True'
+	antibact: '6'
+	socialDistance: '2.6'
+{
+	id_no: 'PH_451_7',
+	age: '28',
+	gender: 'M'
+	status: 'S'
+	mask: 'False'
+	antibact: '2'
+	socialDistance:'1.6'
+}
+{
+	id_no: 'PH_451_8',
+	age: '26',
+	gender: 'M'
+	status: 'I'
+	mask: 'True'
+	antibact: '0'
+	socialDistance: '1.9'
+}
+{
+	id_no: 'PH_451_9',
+	age: '42',
+	gender: 'M'
+	status: 'S'
+	mask: 'True'
+	antibact: '5'
+	socialDistance: '0.5'
+}
+{
+	id_no: 'PH_451_10',
+	age: '33',
+	gender: 'F'
+	status: 'S'
+	mask: 'True'
+	antibact: '5'
+	socialDistance: '1'
+}
+{
+	id_no: 'PH_451_11',
+	age: '22',
+	gender: 'M'
+	status: 'I'
+	mask: 'True'
+	antibact: '5'
+	socialDistance: '2'
+}
+{
+	id_no: 'PH_451_12',
+	age: '29',
+	gender: 'F'
+	status: 'R'
+	mask: 'True'
+	antibact: '6'
+	socialDistance: '2'
+}
+{
+	id_no: 'PH_451_13',
+	age: '28',
+	gender: 'M'
+	status: 'I'
+	mask: 'False'
+	antibact: '2'
+	socialDistance:'2'
+}
+{
+	id_no: 'PH_451_14',
+	age: '26',
+	gender: 'M'
+	status: 'I'
+	mask: 'True'
+	antibact: '0'
+	socialDistance: '1.9'
+}
+{
+	id_no: 'PH_451_15',
+	age: '42',
+	gender: 'M'
+	status: 'S'
+	mask: 'True'
+	antibact: '5'
+	socialDistance: '0.5'
+}
+{
+	id_no: 'PH_451_16',
+	age: '33',
+	gender: 'F'
+	status: 'S'
+	mask: 'False'
+	antibact: '5'
+	socialDistance: '1'
+}
+{
+	id_no: 'PH_451_17',
+	age: '22',
+	gender: 'M'
+	status: 'I'
+	mask: 'False'
+	antibact: '5'
+	socialDistance: '2'
+}
+{
+	id_no: 'PH_451_18',
+	age: '29',
+	gender: 'F'
+	status: 'R'
+	mask: 'True'
+	antibact: '6'
+	socialDistance: '2'
+}

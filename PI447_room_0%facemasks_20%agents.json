@@ -1,0 +1,54 @@
+{
+	id_no: 'PI_447_1',
+	age: '28',
+	gender: 'M'
+	status: 'S'
+	mask: 'False'
+	antibact: '2'
+	socialDistance:'2'
+}
+{
+	id_no: 'PI_447_2',
+	age: '26',
+	gender: 'M'
+	status: 'I'
+	mask: 'False'
+	antibact: '0'
+	socialDistance: '1.9'
+}
+{
+	id_no: 'PI_447_3',
+	age: '42',
+	gender: 'M'
+	status: 'S'
+	mask: 'False'
+	antibact: '5'
+	socialDistance: '0.5'
+}
+{
+	id_no: 'PI_447_4',
+	age: '33',
+	gender: 'F'
+	status: 'S'
+	mask: 'False'
+	antibact: '5'
+	socialDistance: '1'
+}
+{
+	id_no: 'PI_447_5',
+	age: '22',
+	gender: 'M'
+	status: 'I'
+	mask: 'False'
+	antibact: '5'
+	socialDistance: '2'
+}
+{
+	id_no: 'PI_447_6',
+	age: '29',
+	gender: 'F'
+	status: 'R'
+	mask: 'False'
+	antibact: '6'
+	socialDistance: '2'
+}
